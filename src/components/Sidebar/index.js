@@ -40,20 +40,24 @@ const Sidebar = () => {
           activeclassname="active"
           to="/"
           onClick={() => setShowNav(false)}>
+            
+            
           <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
         </NavLink>
         <NavLink 
           activeclassname="active"
           className="about-link"
           to="/about"
-          onClick={() => setShowNav(false)}>
+          onClick={() => window.about.reload()}>
+            
           <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
+          
         </NavLink>
         <NavLink
           activeclassname="active"
           className="portfolio-link"
           to="/pix"
-          onClick={() => setShowNav(false)}
+          onClick={() => window.pix.reload()}
         >
           <FontAwesomeIcon icon={faCameraRetro} color="#4d4d4e" />
         </NavLink>
@@ -61,7 +65,7 @@ const Sidebar = () => {
           activeclassname="active"
           className="contact-link"
           to="/portfolio"
-          onClick={() => setShowNav(false)}
+          onClick={() => window.portfolio.reload()}
         >
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
         </NavLink>

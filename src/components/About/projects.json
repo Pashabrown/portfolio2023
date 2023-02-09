@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Stock Ticker",
+    "live": "https://project1-stock-ticker-ga-github-io.vercel.app/",
+    "git": "https://github.com/Pashabrown/Project1StockTickerGA.github.io",
+    "image": "https://mediacloud.kiplinger.com/image/private/s--x2_BoIgn--/v1604352227/Investing/stock-market-today-110220.jpg"
+  },
+  {
+    "name": "NonProfit Donation Checker (user: kkl pw: kkl >for seeded app)",
+    "live": "https://easy-philanthropy.herokuapp.com/",
+    "git": "https://github.com/Pashabrown/Easy-Philanthropy",
+    "image": "https://st.depositphotos.com/1035886/5026/i/600/depositphotos_50267171-stock-photo-non-profit-organization.jpg"
+  },
+  {
+    "name": "Safe Exchange",
+    "live": "https://practical-ardinghelli-eaf989.netlify.app/",
+    "git": "https://github.com/CamSkiTheDev/Safe-Exchange-API",
+    "image": "https://storage.googleapis.com/dpss-wordpress-prod/2/2017/01/Safe-Exchange-Zone-Logo.png"
+  },
+  {
+    "name": "T-Shirt Custom App",
+    "live": "https://elastic-lamarr-297160.netlify.app/",
+    "git": "https://github.com/Pashabrown/custom_shirt_frontend",
+    "image": "https://m.media-amazon.com/images/I/B1DBWbloIpS._CLa%7C2140%2C2000%7C71R3shUT0VL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png"
+  }
+]
